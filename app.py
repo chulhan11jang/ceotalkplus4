@@ -279,12 +279,12 @@ st.markdown("""
 # =========================
 st.markdown("""
 <div class="hero-container">
-<img src="https://raw.githubusercontent.com/chulhan11jang/CEO_Talk_Plus/main/bamboo.jpeg">
+<img src="https://raw.githubusercontent.com/chulhan11jang/CEO_Talk_Plus/main/gumi.jpeg">
 <div class="hero-overlay"></div>
 <div class="hero-text">
     <div class="hero-title">CEO Talk Plus</div>
-    <div class="hero-sub">with 모빌리티솔루션</div>
-    <div class="hero-date">2026.06.18 · 담양 죽녹원</div>
+    <div class="hero-sub">with 패키지솔루션</div>
+    <div class="hero-date">2026.07.08 · 금오산 둘레길</div>
 </div>
 </div>
 """, unsafe_allow_html=True)
